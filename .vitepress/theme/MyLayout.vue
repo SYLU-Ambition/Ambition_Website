@@ -60,13 +60,11 @@ iframe{
   margin-bottom: 40px;
 }
 
-/*表格宽度自适应*/
 th, td {
     white-space: nowrap !important; /* 不让th，td内容换行显示 */
     width: 1%; /* 强制均匀分配宽度 */ 
 }
 
-/* markdown图片居中*/
 .main img{
   display: block;
   margin: 0 auto;
